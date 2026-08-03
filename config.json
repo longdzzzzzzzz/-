@@ -14,12 +14,12 @@
   "UPTIME": 0,
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
-  "ACCESSTOKEN": "EAAGNO4a7r2wBSMF8zJAkUImnvcZB6bC84iF6rOnb2f9kIdrBFLkYadIMergQ8OIVCYH18PxzZBmYKVy3d11bbbydDwW6cVSpXFwfBO7bDBpTu1TEZADE7oZCZCifjlAEsFkhPjuKvzE53zMemLZAJ8xj9fUUWN5OeWaia1ZCGNjYM8gt0U6TQcZCxszF3MOojw95oAZDZD",
+  "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
   "FACEBOOK_ADMIN": "https://www.facebook.com/mupsvll/",
   "ZALO_ADMIN": "",
   "ADMIN_NAME": "bò bố🐮",
   "BOTNAME": "bò con🐮",
-  "PREFIX": ".",
+  "PREFIX": "/",
   "DEVELOPERS": [
     "61591939936341"
   ],
@@ -36,7 +36,7 @@
   },
   "DESIGN": {
     "Theme": "rainbow",
-    "Admin": "Bạch Duy Long",
+    "Admin": "Duy Long",
     "Setup": {
       "Theme": "Mày có thể dùng các Theme như: Red and Hacker to enhance your terminal logs."
     }
